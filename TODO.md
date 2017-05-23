@@ -1,10 +1,13 @@
 Thesis todo list
 
 - [ ] Crea File per la tesi in Rmarkdown
-- [ ] Introduction
-        
+- [ ] Introduction       
  - [ ] Storia della malattia
+  - [ ] Anatomia della valvola mitralica
+  - [ ] Anatomia chirurgica 
+  - [ ] Punti importanti
  - [ ] Storia naturale
+  - [ ] Frequnza e eta in popolazione generale
  - [ ] Obiettivi del lavoro
  - [ ] 
 - [ ] Materiali e metodi
